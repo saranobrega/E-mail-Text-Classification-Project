@@ -6,6 +6,7 @@ BERT (Bidirectional Encoder Representations from Transformers) is a transformer-
 
 
 ## Technologies
+This project is created with:
 - Python 3.9.6
 - Pytorch 1.12.0
 - Pytorch Lightning 1.7.7
