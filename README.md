@@ -1,2 +1,3 @@
-# NLP_Text-Classification
-Implementing Bert model for multi-class text classification.
+# Natural Language Processing (NLP) : Multi-Class Text Classification Project
+
+Implementing the Bert model for a multi-class text classification project. 
