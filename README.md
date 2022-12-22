@@ -1,6 +1,8 @@
 # Natural Language Processing (NLP) : Multi-Class Text Classification Project
 
-Implementing the Bert model for a multi-class text classification project. 
+Implementing the BERT model for a multi-class text classification project. 
+
+BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based machine learning technique for natural language processing (NLP) pre-training developed by Google. 
 
 
 ## Technologies
