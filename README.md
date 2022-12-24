@@ -6,6 +6,7 @@ Dataset: E-mail data (documents).
 
 BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based machine learning technique for natural language processing (NLP) pre-training developed by Google. 
 
+Project implemented during my Artificial Intelligence Internship.
 
 ## Technologies
 This project is created with:
