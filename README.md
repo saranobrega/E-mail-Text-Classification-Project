@@ -2,6 +2,8 @@
 
 Implementing the BERT model for a multi-class text classification project. 
 
+Dataset: E-mail data (documents).
+
 BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based machine learning technique for natural language processing (NLP) pre-training developed by Google. 
 
 
