@@ -1,8 +1,9 @@
 # Natural Language Processing (NLP) : Multi-Class Text Classification Project
 
-Project implemented during my Artificial Intelligence Internship. Implementing the BERT model for a multi-class text classification project. 
+Project implemented during my Artificial Intelligence Internship at Workist (Berlin, Nov 2022). 
+Implementing the BERT model for a multi-class text classification project. 
 
-Dataset: E-mail data (documents).
+Data: E-mail text.
 
 BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based machine learning technique for natural language processing (NLP) pre-training developed by Google. 
 
